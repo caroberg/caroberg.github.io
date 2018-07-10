@@ -1,0 +1,14 @@
+---
+layout: post
+title:      "I am a god"
+date:       2018-07-10 23:14:47 +0000
+permalink:  i_am_a_god
+---
+
+[Coders are gods](https://www.youtube.com/watch?v=PH-9JAe2ZTI). Look at Mark Zuckerberg and how he completely transformed the world.  Even Tom from MySpace left a footprint on our hearts. Where's the VH1 "Where Are They Now?" update on Tom? Poor guy. The nature of coding can be cruel.  Alas, computers have also killed beloved establishments such as Blockbuster, and Lords knows how hard it was for me to say good-bye to VHS. Adapting to modern times has rarely been easy for this old soul, and that's partly why I've embarked on this journey. Survival of the fittest is real. 
+
+Coding is an entirely new frontier for me. This will be a real life Oregon Trail full of snake bites and forging rivers, but that's all part of the fun. Solving problems in Ruby is akin to the rush I get when communicating with others in foreign languages. I spent two years living in China and every day was an adventure. That's how it feels writing code. When I've toiled over 24 hours and suddenly I pass a test, I actually feel like a god. I've hacked into the system and I'm one step closer to developing a program that could potentially help the whole world. 
+
+Coding is power, good and bad. We've already witnessed plenty of how platforms can both serve and disrupt our global community. Ultimately, you can't control the environment you build. Nevertheless, coding is undoubtedly the future and I seek job security in an exciting and versatile field that can literally take me anywhere. I have no interest in creating just for the sake of creating. I also fear robots and The Terminator. Coding isn't everything and not all coding enterprises are relevant. Life requires balance. Sometimes sitting under a willow by a babbling brook and closing your eyes is the best answer for the moment. Nevertheless, Google Maps is freedom, learning the ukelele through an app is awesome, and don't even get me started on ScreenShop. That is actual wizardry.
+
+I don't know what the future holds for me or the world. Maybe I can help solve the plastic waste issue through an app. I would die happy. All I can say for now is that my days fly while I work on code, and that's a good thing. 
