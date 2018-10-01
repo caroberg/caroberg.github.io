@@ -1,12 +1,12 @@
 ---
 layout: post
 title:      "Attr_writer, attr_reader, attr_accessor, oh my!"
-date:       2018-10-01 01:10:06 +0000
+date:       2018-09-30 21:10:07 -0400
 permalink:  attr_writer_attr_reader_attr_accessor_oh_my
 ---
 
 
-What are these attribute beasts? Moreover, Ruby's "has many," "belongs to," and "has many through" methods makes me feel like Dorothy deep inside dark, scary woods. Luckily, I found this [great video tutorial](https://instruction.learn.co/student/video_lectures#/340) to protect and save me. 
+What are these attribute beasts? Moreover, Ruby's "has many," "belongs to," and "has many through" methods make me feel like Dorothy deep inside dark, scary woods. Luckily, I found this [great video tutorial](https://instruction.learn.co/student/video_lectures#/340) to protect and save me. 
 
 Regretably, I didn't come up with a Wizard of Oz example to post here, but instead built some object relationships based on real estate. First, I'll post the code in full, then break it down for inspection.
 
